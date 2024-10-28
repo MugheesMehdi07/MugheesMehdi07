@@ -7,6 +7,7 @@ I'm a Senior Full Stack AI Engineer based in Lahore District, Punjab. With over 
 - GitHub: [MugheesMehdi07](https://github.com/MugheesMehdi07)
 - Stack Overflow: [Mughees Mehdi](https://stackoverflow.com/users/4974301/mughees-mehdi)
 - Upwork: [Profile](https://www.upwork.com/freelancers/~0153c3393b6f5dabb0)
+- Resume: https://mughees.tiiny.site/
 
 ## 💼 Professional Summary
 I’m a Full Stack AI Engineer and Python expert with extensive experience in building and optimizing applications using AI-driven technologies. Currently, I work on Large Language Models (LLMs) for companies like Mistral AI and Apple, focusing on function calling and event planning optimization. I also have a strong background in web application architecture, system design, and managing development teams.
