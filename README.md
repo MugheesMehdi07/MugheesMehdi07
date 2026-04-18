@@ -1,6 +1,6 @@
 # Hello, I'm Mughees Mehdi! 👋
 
-I'm a Senior Full Stack AI Engineer based in Lahore District, Punjab. With over 5 years of experience, I specialize in building scalable, efficient web solutions and integrating advanced AI technologies into enterprise-level applications. My expertise spans both frontend and backend development, system design, and cloud infrastructure.
+I'm a Senior Full Stack AI Engineer based in Lahore District, Punjab. With over 5 years of experience, I specialize in building scalable, efficient web solutions and integrating advanced AI technologies into enterprise-level applications. My expertise spans both frontend and backend development, system design, and cloud infrastructure. 🧗‍♂️😄🤩🤖😛 
 
 ## 🌐 Connect with Me
 - LinkedIn: [Mughees Mehdi](https://www.linkedin.com/in/mughees-mehdi)
