@@ -1,55 +1,68 @@
-# Hello, I'm Mughees Mehdi! 👋
+# Hi, I'm Mughees Mehdi 👋
 
-I'm a Senior Full Stack AI Engineer based in Lahore District, Punjab. With over 5 years of experience, I specialize in building scalable, efficient web solutions and integrating advanced AI technologies into enterprise-level applications. My expertise spans both frontend and backend development, system design, and cloud infrastructure. 🧗‍♂️😄🤩🤖😛 
+### AI Engineer · Software Engineering Leader · Builder of Scanium.ai
 
-## 🌐 Connect with Me
-- LinkedIn: [Mughees Mehdi](https://www.linkedin.com/in/mughees-mehdi)
-- GitHub: [MugheesMehdi07](https://github.com/MugheesMehdi07)
-- Stack Overflow: [Mughees Mehdi](https://stackoverflow.com/users/4974301/mughees-mehdi)
-- Upwork: [Profile](https://www.upwork.com/freelancers/~0153c3393b6f5dabb0)
-- Resume: https://mughees.tiiny.site/
+I build production AI systems across financial data, agentic LLMs, computer vision, and SaaS. My experience combines hands-on Python engineering with technical leadership, model evaluation, and reliable product delivery.
 
-## 💼 Professional Summary
-I’m a Full Stack AI Engineer and Python expert with extensive experience in building and optimizing applications using AI-driven technologies. Currently, I work on Large Language Models (LLMs) for companies like Mistral AI and Apple, focusing on function calling and event planning optimization. I also have a strong background in web application architecture, system design, and managing development teams.
+[LinkedIn](https://www.linkedin.com/in/mughees-mehdi) · [YouTube](https://www.youtube.com/@mugheesmehdi) · [Scanium.ai](https://scanium.ai) · [Book a mentoring session](https://topmate.io/mugheesmehdi)
 
-## 🛠 Technical Skills
-- **Languages & Frameworks**: Python (Django, Flask, DRF, Celery), JavaScript (React, Redux, ES6), HTML, CSS, C# (Unity)
-- **Machine Learning & Data Processing**: TensorFlow, PyTorch, Keras, Pandas, NumPy, Spacy, NLTK, OpenCV, Moviepy, FFMPEG
-- **Database Management**: SQL, PostgreSQL, MySQL, DynamoDB
-- **DevOps & Cloud Services**: AWS (S3, ECR, ECS, RDS, EC2, Lambda), Docker, NGINX, Heroku, CI/CD (GitHub Actions)
-- **Other Technologies**: Large Language Models (LLMs) such as LLaMA, Falcon, GPT-4, Bard; Image/Video Processing; Third-Party API Integrations
+## What I'm working on
 
-## 📈 Professional Experience
+- **Daloopa — Senior AI Engineer:** financial document extraction, validation, benchmarking, and improving Autotagger accuracy and coverage.
+- **Turing — AI Engineer & Team Lead:** agentic LLM programmes, function calling, structured outputs, RLHF, and adversarial evaluation.
+- **Scanium.ai — Creator & Lead Engineer:** an agent-powered website QA SaaS that checks accessibility, SEO, technical quality, content, performance, and AI visibility.
 
-### Python Engineer (LLMs, Team Lead)
-**Turing, Remote**  
-*February 2024 - Present*
-- Lead the development of function calling systems for Mistral AI and Apple, improving model behaviors in event planning.
-- Manage and review team outputs while ensuring best practices in coding and system design.
-- Hands-on development using Python and LLMs to deliver AI-driven solutions.
+## Featured work
 
-### Senior Full Stack Developer
-**Rootpointers, Lahore, Pakistan**  
-*August 2021 - February 2024*
-- Played a key role in building SmartMitt, an AI-based sports analytics platform, using Django, Flask, and deep learning models.
-- Led backend and frontend development for multiple enterprise web applications.
-- Acted as a technical liaison with clients, delivering AI-powered web solutions for startups.
+### 🔎 [Scanium.ai](https://scanium.ai)
+Independently designed, built, and deployed a website QA product with browser agents, evidence-backed reports, adaptive re-testing, audit history, subscriptions, and usage controls.
 
-### Full Stack Web Developer
-**xiQ Inc, USA**  
-*January 2020 - August 2021*
-- Spearheaded the revamping of xiQ’s AI-driven B2B platform, used by clients like DELL, Nutanix, Genpact, and NTT Data.
-- Implemented machine learning features and contributed to full-stack development with Django and React.js.
-- Collaborated closely with cross-functional teams to ensure successful deployments.
+### ⚾ Computer vision for sports analytics
+At RootPointers, built SmartMitt tracking pipelines, sensor-video fusion, APIs, and dashboards for pitch speed, trajectory, release point, and impact analysis.
 
-### Back End Developer
-**Datics, Lahore**  
-*March 2019 - December 2019*
-- Played a key role in backend development of multiple web applications.
-- Built API for Sparrowcharts.com (A social media analytics platform) to analyze and respond to social media queries.
-- Delivered cloud-based solutions to handle high-traffic environments.
+### 🤖 LLM-powered workflow automation
+Delivered consulting solutions for legal-agreement analysis and transforming source material into structured award submissions.
 
-## 📫 How to Reach Me
-Feel free to reach out for collaborations, projects, or networking:
-- 📧 Email: [mugheesmehdi@gmail.com](mailto:mugheesmehdi@gmail.com)
-- 📞 Phone: +923227568866
+## Technical toolkit
+
+| Area | Technologies |
+| --- | --- |
+| AI & agents | LLMs, function calling, structured outputs, RAG, RLHF, fine-tuning, model evaluation |
+| Machine learning | PyTorch, TensorFlow, OpenCV, YOLO, NLP |
+| Backend & APIs | Python, Django, Flask, FastAPI, DRF, Celery, REST APIs, WebSockets |
+| Frontend | JavaScript, React, Redux |
+| Cloud & systems | AWS, Azure, Docker, GitHub Actions, Redis, RabbitMQ, microservices |
+| Data & retrieval | PostgreSQL, SQL, Pandas, NumPy, FAISS, Pinecone, pgvector, Solr |
+
+## Experience
+
+| Role | Organisation | Period |
+| --- | --- | --- |
+| Senior AI Engineer | Daloopa | Sep 2025–Present |
+| AI Engineer — LLMs & Team Lead | Turing · Contract | May 2024–Present |
+| Senior Full-Stack Engineer & Technical Lead | RootPointers | Aug 2021–Feb 2024 |
+| Full-Stack Engineer | xiQ Inc. | Jan 2020–Aug 2021 |
+| Backend Engineer | Datics | Jan 2019–Jan 2020 |
+| Software Engineer | GenITeam Solutions & Brain Games Studio | Jul 2016–Dec 2018 |
+
+## Teaching & community
+
+I've designed and taught Python, AI, and applied machine-learning courses through Hadi E-Learning, mentoring more than **100 students and professionals**. I've also delivered workshops and talks at Superior University, LCWU, GCU Lahore, and AI NEXTGEN.
+
+My research explores cultural bias and generalisability in facial-emotion recognition.
+
+[View my resume](https://tinyurl.com/mugheesmehdi)
+
+## Education
+
+- **MS, Data Science** — Information Technology University
+- **BS, Computer Software Engineering** — PUCIT
+- **MicroMasters, Data Science** — UC San Diego, edX
+
+## Let's connect
+
+🧭 **AI Career Guidance & CV Review:** [Book a mentoring session](https://topmate.io/mugheesmehdi) for practical CV feedback, learning priorities, and portfolio direction.
+
+📩 **Collaborations & projects:** [mugheesmehdi@gmail.com](mailto:mugheesmehdi@gmail.com)
+
+[LinkedIn](https://www.linkedin.com/in/mughees-mehdi) · [YouTube](https://www.youtube.com/@mugheesmehdi) · [Upwork](https://www.upwork.com/freelancers/~0153c3393b6f5dabb0)
